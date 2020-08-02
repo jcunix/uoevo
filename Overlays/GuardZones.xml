@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Overlay Name="Guard Zones">
+  <rect desc="Moonglow" facet="-1" red="255" green="0" blue="0" x="4379" y="1045" w="108" h="133"/>
+  <rect desc="Britain" facet="-1" red="255" green="0" blue="0" x="1072" y="1545" w="343" h="370"/>
+  <rect desc="Britain" facet="-1" red="255" green="0" blue="0" x="1416" y="1500" w="324" h="290"/>
+  <rect desc="Jhelom" facet="-1" red="255" green="0" blue="0" x="1294" y="3664" w="212" h="222"/>
+  <rect desc="Yew" facet="-1" red="255" green="0" blue="0" x="494" y="926" w="106" h="108"/>
+  <rect desc="Minoc" facet="-1" red="255" green="0" blue="0" x="2394" y="370" w="230" h="262"/>
+  <rect desc="Trinsic" facet="-1" red="255" green="0" blue="0" x="1794" y="2638" w="342" h="264"/>
+  <rect desc="Skara" facet="-1" red="255" green="0" blue="0" x="538" y="2106" w="148" h="168"/>
+  <rect desc="Magincia" facet="-1" red="255" green="0" blue="0" x="3646" y="2040" w="116" h="240"/>
+  <rect desc="Occlo" facet="-1" red="255" green="0" blue="0" x="3588" y="2446" w="177" h="244"/>
+  <rect desc="Nujelm" facet="-1" red="255" green="0" blue="0" x="3496" y="1062" w="312" h="338"/>
+  <rect desc="Vesper" facet="-1" red="255" green="0" blue="0" x="2794" y="634" w="232" h="366"/>
+  <rect desc="Cove" facet="-1" red="255" green="0" blue="0" x="2206" y="1116" w="84" h="120"/>
+  <rect desc="Skara Gate" facet="-1" red="255" green="0" blue="0" x="637" y="2061" w="11" h="11"/>
+  <rect desc="Brit Gate" facet="-1" red="255" green="0" blue="0" x="1330" y="1991" w="12" h="12"/>
+  <rect desc="Yew Gate" facet="-1" red="255" green="0" blue="0" x="765" y="746" w="11" h="12"/>
+  <rect desc="Jhelom Gate" facet="-1" red="255" green="0" blue="0" x="1494" y="3765" w="10" h="12"/>
+  <rect desc="Minoc Gate" facet="-1" red="255" green="0" blue="0" x="2695" y="687" w="12" h="11"/>
+  <rect desc="Moonglow Gate" facet="-1" red="255" green="0" blue="0" x="4461" y="1278" w="11" h="11"/>
+  <rect desc="Trinsic Gate" facet="-1" red="255" green="0" blue="0" x="1822" y="2942" w="11" h="12"/>
+  <rect desc="Magincia Gate" facet="-1" red="255" green="0" blue="0" x="3557" y="2133" w="13" h="13"/>
+</Overlay>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Overlay Name="SOS Regions">
+  <rect facet="-1" red="200" green="200" blue="200" x="2657" y="3800" w="1365" h="158"/>
+  <rect facet="-1" red="200" green="200" blue="200" x="2248" y="1137" w="1179" h="657"/>
+  <rect facet="-1" red="200" green="200" blue="200" x="3557" y="53" w="240" h="887"/>
+  <rect facet="-1" red="200" green="200" blue="200" x="2307" y="2546" w="962" h="549"/>
+  <rect facet="-1" red="200" green="200" blue="200" x="0" y="110" w="102" h="1429"/>
+  <rect facet="-1" red="200" green="200" blue="200" x="2" y="1577" w="681" h="473"/>
+  <rect facet="-1" red="200" green="200" blue="200" x="3334" y="3153" w="901" h="369"/>
+  <rect facet="-1" red="200" green="200" blue="200" x="1" y="2084" w="307" h="1925"/>
+  <rect facet="-1" red="200" green="200" blue="200" x="3907" y="1736" w="891" h="1123"/>
+  <rect facet="-1" red="200" green="200" blue="200" x="1606" y="3712" w="428" h="347"/>
+</Overlay>
